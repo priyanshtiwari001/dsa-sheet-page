@@ -28,3 +28,16 @@ backend/
 ```bash
 cd backend
 npm install
+
+```
+
+## Create a .env file in backend/:
+```
+PORT=3000
+NODE_ENV=development
+```
+## 3. Run the Server
+
+```
+npm run dev
+```
